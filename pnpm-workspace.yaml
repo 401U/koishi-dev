@@ -1,0 +1,11 @@
+workspaces:
+  - "external/*"
+  - "external/*/external/*"
+  - "external/*/external/*/packages/*"
+  - "external/*/external/*/packages/@*/*"
+  - "external/*/packages/*"
+  - "external/*/packages/@*/*"
+  - "packages/*"
+  - "packages/@*/*"
+  - "plugins/*"
+  - "plugins/@*/*"

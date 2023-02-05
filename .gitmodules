@@ -1,0 +1,3 @@
+[submodule "plugins/koishi-plugin-mollyai"]
+	path = plugins/koishi-plugin-mollyai
+	url = git@github.com:YehowahLiu/koishi-plugin-mollyai.git
