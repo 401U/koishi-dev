@@ -18,3 +18,7 @@ tsconfig.tsbuildinfo
 *.njsproj
 *.sln
 koishi.yml
+.vite/
+logs/
+tsconfig.temp.json
+.koishi.db
